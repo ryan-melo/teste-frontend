@@ -1,0 +1,38 @@
+@media  (max-width: 1024px) {
+  .container {
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 5rem;
+    justify-content: center;
+    align-items: center;
+    margin: 0 5rem;
+  }
+
+  .parceiros {
+    width: 80%;
+  }
+
+  .logo h1 {
+    display: none;
+  }
+
+  nav .menu {
+    margin-left: 0;
+  }
+
+  nav .menu a {
+    font-size: 1.6rem;
+  }
+
+  article {
+    width: 100%;
+  }
+
+  .chevron img {
+    width: 60%;
+  } 
+
+  .section2 h2 {
+    font-size: 4rem;
+  }
+}

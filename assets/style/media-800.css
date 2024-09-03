@@ -1,0 +1,18 @@
+@media  (max-width: 800px) {
+  .functions, .top {
+    flex-direction: column;
+  }
+
+  nav .menu {
+    display: none;
+  }
+
+  .article4 {
+    display: none;
+  }
+
+  .section2 h2 {
+    font-size: 3rem;
+  }
+}
+
